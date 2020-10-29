@@ -1,6 +1,6 @@
 # -ih_datamadpt0420_project_final
 
-![picture](./charts/film-4208954_640.png)
+![picture](./charts/film-4208954_640.jpg)
 
 ## 1) Topic
 
