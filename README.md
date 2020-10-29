@@ -1,5 +1,7 @@
 # -ih_datamadpt0420_project_final
 
+![picture](./charts/filmklappe-1078813_640.png)
+
 ## 1) Topic
 
 NLP project in Spanish and German - film evaluations:
@@ -50,13 +52,15 @@ In the following analysis only the star evaluation of the classifier will be use
 
 **b) Differences in film evaluations on the spanish and the german website**
 
+The choice of films (100 top films in the categories (drama, comedy and action) are different on the spanish and the german website. 
+
 Only one third of the considered films are among the top 100 valued films on the spanish website as well as on the german website. This result is similar for
-all three categories (drama, comedy, action). The evaluation for the films which are identical on both websites seem not to differ so much between the two 
-languages. 
+all three categories. The evaluation for the films which are identical on both websites do not differ so much. 
+
 
 ![compare spanish and german film evaluation](./charts/table_comparison_of_spanish_and_german_film_evaluations.png)
 
-**c) Comparison of films
+**c) Comparison of films**
 
 ![compare films](./charts/drama_evaluation_sp_ge.png)
 ![compare films](./charts/comedy_evaluation_sp_ge.png)
