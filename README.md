@@ -1,6 +1,6 @@
 # -ih_datamadpt0420_project_final
 
-![picture](./charts/filmklappe-1078813_640.png)
+![picture](./charts/film-4208954_640.png)
 
 ## 1) Topic
 
