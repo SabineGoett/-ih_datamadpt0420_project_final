@@ -56,3 +56,10 @@ languages.
 
 ![compare spanish and german film evaluation](./charts/table_comparison_of_spanish_and_german_film_evaluations.png)
 
+**c) Comparison of films
+
+![compare films](./charts/drama_evaluation_sp_ge.png)
+![compare films](./charts/comedy_evaluation_sp_ge.png)
+![compare films](./charts/action_evaluation_sp_ge.png)
+
+
