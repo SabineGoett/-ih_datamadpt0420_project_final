@@ -42,8 +42,7 @@ Films which are identical in the 100 best valued films in each language and of e
 
 **a) Comparison of user evaluation and evaluation with the classifier**
 
-The sentiment analysis works pretty well in both languages. In enclosed table you can see, that there is nearly no difference in the star evaluation of the users 
-in comparison to the star evalution gained with the classification model. 
+The sentiment analysis works pretty well in both languages. In enclosed graph and table you can see, that there is nearly no difference in the star evaluation of the users in comparison to the star evalution gained with the classification model. 
 
 
 ![compare the star evaluation of users and gained by the classifier](./charts/violinplot_classifier_user.png)
